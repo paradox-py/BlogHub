@@ -33,4 +33,4 @@ A Django-based blog application where users can create, read, update, and delete
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/paradox-py/BlogHub.git/
